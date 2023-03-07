@@ -32,7 +32,3 @@ print('Summe: ', farmers_mult(zahl1, zahl2))
 
 #Proberechnung
 print("\nKontrollergebnis: ", zahl1 * zahl2)
-
-#Playground
-#div = zahl1 // zahl2
-#print("Ganzzahldivision: ", div)
